@@ -48,10 +48,12 @@ hardware/ril
 kernel/sony/msm8974
 libcore
 packages/apps/Bluetooth
+packages/apps/Contacts
 packages/apps/ContactsCommon
 packages/apps/Dialer
 packages/apps/Email
 packages/apps/LockClock
+packages/apps/ManagedProvisioning
 packages/apps/Nfc
 packages/apps/PackageInstaller
 packages/apps/Settings
