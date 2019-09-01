@@ -6,6 +6,7 @@
 
 list_repos() {
 cat <<EOF
+art
 bionic
 bootable/recovery
 build
@@ -16,6 +17,7 @@ device/sony/msm8974-common
 device/sony/rhine-common
 external/aac
 external/bluetooth/bluedroid
+external/chromium-libpac
 external/chromium_org/v8
 external/giflib
 external/libnl
