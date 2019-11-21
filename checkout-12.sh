@@ -20,6 +20,7 @@ external/bluetooth/bluedroid
 external/chromium-libpac
 external/chromium_org/v8
 external/giflib
+external/libcxx
 external/libnl
 external/libhevc
 external/libnfc-nci
