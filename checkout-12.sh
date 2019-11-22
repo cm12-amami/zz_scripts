@@ -65,6 +65,7 @@ packages/apps/Trebuchet
 packages/apps/UnifiedEmail
 packages/providers/DownloadProvider
 packages/providers/MediaProvider
+packages/providers/TelephonyProvider
 packages/providers/UserDictionaryProvider
 packages/services/Telephony
 system/core
