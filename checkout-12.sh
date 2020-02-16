@@ -51,6 +51,7 @@ hardware/ril
 kernel/sony/msm8974
 libcore
 packages/apps/Bluetooth
+packages/apps/CertInstaller
 packages/apps/Contacts
 packages/apps/ContactsCommon
 packages/apps/Dialer
