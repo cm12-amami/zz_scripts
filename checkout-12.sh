@@ -31,6 +31,7 @@ external/libxml2
 external/neven
 external/openssl
 external/pdfium
+external/ppp
 external/sepolicy
 external/sfntly
 external/skia
