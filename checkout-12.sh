@@ -21,9 +21,10 @@ external/chromium-libpac
 external/chromium_org/v8
 external/giflib
 external/libcxx
-external/libnl
+external/libexif
 external/libhevc
 external/libnfc-nci
+external/libnl
 external/libopus
 external/libvorbis
 external/libvpx
