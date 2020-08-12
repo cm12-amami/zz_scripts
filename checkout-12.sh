@@ -83,5 +83,6 @@ list_repos | while read REPO; do
     cd $REPO
     echo "$PWD"
     git checkout cm-12.1
+    git pull
     cd $TOPDIR
 done
