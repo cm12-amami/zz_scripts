@@ -19,6 +19,7 @@ external/aac
 external/bluetooth/bluedroid
 external/chromium-libpac
 external/chromium_org/v8
+external/freetype
 external/giflib
 external/libcxx
 external/libexif
@@ -71,6 +72,7 @@ packages/providers/MediaProvider
 packages/providers/TelephonyProvider
 packages/providers/UserDictionaryProvider
 packages/services/Telephony
+packages/services/Telecomm
 system/core
 system/extras/su
 system/media
